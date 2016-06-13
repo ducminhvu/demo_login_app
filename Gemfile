@@ -10,6 +10,7 @@ gem "turbolinks"
 gem "jbuilder", "~> 2.0"
 gem "sdoc", "~> 0.4.0", group: :doc
 gem "omniauth-facebook", "~> 3.0"
+gem "devise"
 
 group :development, :test do
   gem "dotenv-rails"
