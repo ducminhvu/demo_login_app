@@ -2,4 +2,6 @@
 
 This is demo app use devise and omniauth-facebook
 
-Have good time!
+https://demologinapp1306.herokuapp.com/
+
+Have a good time!
